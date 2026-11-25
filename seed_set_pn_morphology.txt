@@ -1,0 +1,34 @@
+# Candidate seed set: Planetary Nebulae morphology cluster
+# Last updated: revised seed set v2
+#
+# Format: bibcode | sub-theme | notes
+#
+# STATUS: Final proposed seed set (8 papers)
+# Replaces Garcia-Segura 1999 (1999ApJ...517..767G) and
+# Mastrodemos 1999 (1999ApJ...523..357M) which showed weak
+# co-citation connectivity in the temporal analysis.
+#
+# CONFIRMED (from previous ADS verification):
+# Citation counts and post-2015 activity verified.
+
+# --- Observational morphological classification ---
+1987AJ.....94..671B   | morphology/classification  | Balick (1987), foundational morphological classification; 601 cites, 115 post-2015
+1992A&AS...96...23S   | morphology/catalogue       | Schwarz, Corradi & Melnick (1992), bipolar/elliptical catalogue; 256 cites, 39 post-2015
+
+# --- Shaping mechanisms / interacting winds ---
+1978ApJ...219L.125K   | shaping/ISW                | Kwok, Purton & Fitzgerald (1978), interacting stellar winds; 527 cites, 112 post-2015
+2002ARA&A..40..439B   | shaping/review             | Balick & Frank (2002), ARA&A review of shaping mechanisms; 543 cites, 255 post-2015
+
+# --- Binarity and asymmetry ---
+1990ApJ...355..568B   | binarity                   | Bond & Livio (1990), binary central stars and shaping; 215 cites, 33 post-2015
+2009PASP..121..316D   | binarity/review            | De Marco (2009), PASP review of binary hypothesis; 297 cites, 181 post-2015
+
+# --- Shaping / jets and collimated outflows ---
+# REQUIRES VERIFICATION AGAINST ADS BEFORE USE
+1998AJ....116.1357S   | morphology/jets/HST        | Sahai & Trauger (1998), HST imaging of young PNe, jets as primary shaping agent; ~219 cites reported, verify post-2015
+1994ApJ...421..219S   | shaping/jets/theory        | Soker & Livio (1994), accretion disk-driven jets shaping bipolar PNe; 219 cites reported, verify post-2015
+
+# --- REMOVED from previous version ---
+# 1999ApJ...517..767G  Garcia-Segura et al. (1999) -- weak co-citation connectivity
+# 1999ApJ...523..357M  Mastrodemos & Morris (1999) -- weak co-citation connectivity
+# 1996A&AS..116..395M  Manchado et al. (1996) -- non-refereed publication

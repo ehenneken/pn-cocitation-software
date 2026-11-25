@@ -1,0 +1,11 @@
+# Co-citation pipeline — Python package requirements
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Compatible with Python >= 3.8.
+# All other dependencies (csv, itertools, math, json, argparse,
+# collections, pathlib, sys) are part of the Python standard library.
+
+numpy>=1.21
+scipy>=1.7
